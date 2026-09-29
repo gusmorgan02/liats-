@@ -1,0 +1,17 @@
+[33mcommit dbf8d12e69dbe246e5c50fcbb00e246193f4aaa9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gusmorgan02 <luisgustavo7600239@gmail.com>
+Date:   Tue Sep 29 17:04:33 2026 -0300
+
+    adiciona maça
+
+[33mcommit 46113226b62b8c76d089c55393d21ed8ecc360cd[m
+Author: gusmorgan02 <luisgustavo7600239@gmail.com>
+Date:   Tue Sep 29 16:51:10 2026 -0300
+
+    cria a lsta
+
+[33mcommit 451d4c1eeacd82bd6053a28dd285d301827507b0[m
+Author: gusmorgan02 <luisgustavo7600239@gmail.com>
+Date:   Tue Sep 29 16:42:52 2026 -0300
+
+    Initial commit
